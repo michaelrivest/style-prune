@@ -1,2 +1,2 @@
 # style-prune
-Remove css rulesets that are not used a projects html 
+A little script to remove rulesets from a stylesheet that are not used in a given html file 
